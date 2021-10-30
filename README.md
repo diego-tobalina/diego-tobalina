@@ -9,7 +9,7 @@ libres trabajo en proyectos por mi cuenta y puedes encontrarlos en este Github.
 Actualmente trabajando en proyectos con blockchain y del sector financiero.
 Interesado y con experiencia en arquitecturas de microservicios.
 
-https://diegotobalina.com
+https://linktr.ee/DiegoTobalina
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego_Tobalina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-tobalina/)](https://www.linkedin.com/in/anirudhemmadi/)
