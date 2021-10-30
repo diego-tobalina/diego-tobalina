@@ -4,7 +4,7 @@ Soy un desarrollador de Software y apasionado de la informática.
 
 Disfruto de mi trabajo y de poder imaginar y crear nuevas cosas mediante la programación, me encanta poder trabajar con
 más gente y aprender unos de otros, la informática no es solo mi trabajo si no que un hobby por lo que en mis ratos
-libres trabajo en proyectos por mi cuenta y puedes encontrarlos en mi Github.
+libres trabajo en proyectos por mi cuenta y puedes encontrarlos en este Github.
 
 https://diegotobalina.com
 
