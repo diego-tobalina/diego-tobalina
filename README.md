@@ -6,9 +6,11 @@ Disfruto de mi trabajo y de poder imaginar y crear nuevas cosas mediante la prog
 más gente y aprender unos de otros, la informática no es solo mi trabajo si no que un hobby por lo que en mis ratos
 libres trabajo en proyectos por mi cuenta y puedes encontrarlos en este Github.
 
+Actualmente trabajando en proyectos con blockchain y del sector financiero.
+Interesado y con experiencia en arquitecturas de microservicios.
+
 https://diegotobalina.com
 
-Actualmente trabajando en proyectos con blockchain y del sector financiero.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego_Tobalina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-tobalina/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-diegotobalina-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diegotobalina/)](https://instagram.com/kanna6501)
