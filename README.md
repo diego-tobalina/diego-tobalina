@@ -2,9 +2,9 @@
 
 Soy un desarrollador de Software y apasionado de la informática.
 
-Disfruto de mi trabajo y de poder imaginar y crear nuevas cosas mediante la programación, me encanta poder trabajar con
-más gente y aprender unos de otros, la informática no es solo mi trabajo si no que un hobby por lo que en mis ratos
-libres trabajo en proyectos por mi cuenta y puedes encontrarlos en este Github.
+Disfruto de mi trabajo y de poder crear nuevas soluciones a problemas del día a día mediante la programación, me encanta poder trabajar con
+otra gente y aprender unos de otros, la informática no es solo mi trabajo si no que un hobby por lo que en mis ratos
+libres trabajo por mi cuenta en diferentes proyectos que puedes encontrar en este Github.
 
 Actualmente trabajando en proyectos con blockchain y del sector financiero.
 Interesado y con experiencia en arquitecturas de microservicios.
