@@ -1,13 +1,12 @@
-## Encantado de verte por aquí ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Nice to see you here ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Soy un desarrollador de Software y apasionado de la informática.
+I enjoy my work and being able to create new solutions to day-to-day problems through programming, I love being able to work with other people and learn from each other, computing is not only my job but also a hobby, so in my In my free time I work on my own in different projects that you can find in my Github.
 
-Disfruto de mi trabajo y de poder crear nuevas soluciones a problemas del día a día mediante la programación, me encanta poder trabajar con
-otra gente y aprender unos de otros, la informática no es solo mi trabajo si no que un hobby por lo que en mis ratos
-libres trabajo por mi cuenta en diferentes proyectos que puedes encontrar en este Github.
+I am interested in projects with new microservices architectures, oriented to events and prepared for high availability and performance in cloud environments.
 
-Actualmente trabajando en proyectos con blockchain y del sector financiero.
-Interesado y con experiencia en arquitecturas de microservicios.
+I would like to continue my career in a technological branch, managing teams and working together with great professionals but without neglecting the reason that made me start in this profession.
+
+I am always willing to learn new ways of working and keep growing, so don't hesitate to contact me.
 
 https://linktr.ee/DiegoTobalina
 
