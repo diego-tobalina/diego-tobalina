@@ -12,8 +12,6 @@ https://linktr.ee/DiegoTobalina
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego_Tobalina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-tobalina/)](https://www.linkedin.com/in/diego-tobalina/)
-[![Instagram Badge](https://img.shields.io/badge/-diegotobalina-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diegotobalina/)](https://www.instagram.com/diegotobalina)
-[![Gmail Badge](https://img.shields.io/badge/-diegotobalina97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegotobalina97@gmail.com)](mailto:diegotobalina97@gmail.com)
 
 ## ⚡ Technologies
 
