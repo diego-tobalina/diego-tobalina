@@ -5,10 +5,11 @@
 🌍 Proficient in leading international, multidisciplinary teams ranging from 3 to 20 members, delivering end-to-end projects across diverse sectors including Banking 🏦, Insurance 📋, Real Estate 🏡, E-Commerce 🛒, Sports 🏅, Transportation 🚗, and Health 🏥.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego_Tobalina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-tobalina/)](https://www.linkedin.com/in/diego-tobalina/)
-
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/DiegoTobalina)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego_Tobalina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-tobalina/)](https://www.linkedin.com/in/diego-tobalina/)
+
 
 
 ## ⚡ Technologies
