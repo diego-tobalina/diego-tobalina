@@ -1,12 +1,8 @@
 ## Nice to see you here ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I enjoy my work and being able to create new solutions to day-to-day problems through programming, I love being able to work with other people and learn from each other, computing is not only my job but also a hobby, so in my In my free time I work on my own in different projects that you can find in my Github.
+👨‍💻 Experienced Backend Engineer and Software Architect with over seven years of demonstrated expertise in dynamic environments, encompassing both startups and Big Tech. 
 
-I am interested in projects with new microservices architectures, oriented to events and prepared for high availability and performance in cloud environments.
-
-I would like to continue my career in a technological branch, managing teams and working together with great professionals but without neglecting the reason that made me start in this profession.
-
-I am always willing to learn new ways of working and keep growing, so don't hesitate to contact me.
+🌍 Proficient in leading international, multidisciplinary teams ranging from 3 to 20 members, delivering end-to-end projects across diverse sectors including Banking 🏦, Insurance 📋, Real Estate 🏡, E-Commerce 🛒, Sports 🏅, Transportation 🚗, and Health 🏥.
 
 https://linktr.ee/DiegoTobalina
 
