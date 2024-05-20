@@ -32,5 +32,5 @@ https://linktr.ee/DiegoTobalina
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xBidi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xBidi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=diego-tobalina&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-tobalina&hide=TeX&layout=compact)
