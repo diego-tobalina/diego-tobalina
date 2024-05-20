@@ -6,6 +6,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego_Tobalina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-tobalina/)](https://www.linkedin.com/in/diego-tobalina/)
+
+
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/DiegoTobalina)
 
 
